@@ -25,4 +25,5 @@ public class Lader {
     double getHeight() {
         return Height;
     }
+    
 }
